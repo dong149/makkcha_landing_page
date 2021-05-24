@@ -1,6 +1,7 @@
 # makkcha_landing_page
 
-막차 랜딩 페이지 <br/>
+<img src="https://github.com/dong149/image_resources/blob/master/oenson/makkcha_landing.gif" width="300"/>
+ <br/><br/>
 
 ## Description
 귀가의 모든 것 "막차"
